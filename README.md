@@ -10,6 +10,7 @@ you justr clon from git ussing the link
 run the code using vscode.
 
 ## Live link
+https://kipkiruisteve.github.io/ip/
 ## Known Bugs
 There are no bugs
 ## Technologies Used
